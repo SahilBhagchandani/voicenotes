@@ -1,5 +1,7 @@
 <h1 align = "center">TwinMind Application - AI Powered Meeting Recorder</h1>
 
+<h2>Demo Video:</h2>
+
 [![TwinMind](https://i.ytimg.com/vi/SOwRPS5BnYo/hqdefault.jpg)](https://www.youtube.com/watch?v=SOwRPS5BnYo)
 
 <h2>3 Core Features</h2>
