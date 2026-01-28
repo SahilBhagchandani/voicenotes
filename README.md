@@ -1,4 +1,4 @@
-<h1 align = "center">TwinMind Application - AI Powered Meeting Recorder</h1>
+<h1 align = "center">VoiceNotes Application - AI Powered Meeting Recorder</h1>
 
 <h2>Demo Video:</h2>
 
